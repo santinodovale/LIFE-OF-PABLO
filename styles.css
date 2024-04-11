@@ -1,7 +1,36 @@
 body{
+    font-family: arial;
     background-color: rgb(201, 147, 76);
+    margin: 0;
+    padding: 0;
 }
 h1{
+    display: block;
+    margin-left: 110px;
+    font-size: 60px;
+    margin: 0;
+    padding: 0;
+    margin-left: 110px;
+}
+h5{
+    margin: 0;
+    font-size: 20px;
+    margin-left: 90px;
+}
+#a{
+    font-size: 60px;
     margin: 5px;
-    margin-left: 60px;
+    margin-left: 110px;  
+    margin-top: 60px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+#b{
+    margin-top: 20px;
+}
+#im1 {
+    position: absolute;
+    top: 170px;
+    left: 177px;
+    width: 300px;
 }
