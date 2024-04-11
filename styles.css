@@ -1,6 +1,6 @@
 body{
     font-family: arial;
-    background-color: rgb(201, 147, 76);
+    background-color: rgb(250, 138, 72);
     margin: 0;
     padding: 0;
 }
@@ -11,11 +11,13 @@ h1{
     margin: 0;
     padding: 0;
     margin-left: 110px;
+    line-height: 73px;
 }
 h5{
     margin: 0;
-    font-size: 20px;
-    margin-left: 90px;
+    font-size: 24px;
+    margin-left: 94px;
+    line-height: 30px;
 }
 #a{
     font-size: 60px;
@@ -24,13 +26,20 @@ h5{
     margin-top: 60px;
     margin-bottom: 0;
     padding-bottom: 0;
+    line-height: 60px;
 }
 #b{
     margin-top: 20px;
 }
 #im1 {
     position: absolute;
-    top: 170px;
-    left: 177px;
-    width: 300px;
+    top: 165px;
+    left: 170px;
+    width: 305px;
+}
+#im2 {
+    position: absolute;
+    top: 595px;
+    left: 347px;
+    width: 200px;
 }
