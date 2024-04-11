@@ -1,16 +1,25 @@
 body{
-    position: absolute;
     display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 10px;
+
 }
 div{
+    position: relative;
     align-self: center;
     font-family: arial;
     background-color: rgb(250, 138, 72);
-    margin: 0;
-    padding: 0;
     width: 100vh;
     height: 100vh;
-    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 50px;
 
 }
 h1{
