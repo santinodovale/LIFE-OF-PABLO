@@ -1,8 +1,17 @@
 body{
+    position: absolute;
+    display: flex;
+}
+div{
+    align-self: center;
     font-family: arial;
     background-color: rgb(250, 138, 72);
     margin: 0;
     padding: 0;
+    width: 100vh;
+    height: 100vh;
+    box-sizing: border-box;
+
 }
 h1{
     display: block;
