@@ -16,10 +16,11 @@ div{
     align-self: center;
     font-family: arial;
     background-color: rgb(250, 138, 72);
-    width: 100vh;
-    height: 100vh;
+    min-width: 100vh;
+    min-height: 100vh;
     margin-top: 50px;
     margin-bottom: 50px;
+    overflow: auto;
 
 }
 h1{
