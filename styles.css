@@ -13,45 +13,45 @@ div{
     position: relative;
     font-family: arial;
     background-color: rgb(250, 138, 72);
-    min-width: 940px;
-    min-height: 940px;
+    min-width: 100vh;
+    min-height: 100vh;
     margin:100px;
 
 }
 h1{
     display: block;
-    font-size: 3.75em;
+    font-size: 490%;
     margin: 0;
     padding: 0;
-    margin-left: 1.8em;
-    line-height: 1.23em;
+    margin-left: 12.5%;
+    line-height: 123%;
 }
 h5{
     margin: 0;
-    font-size: 1.5em;
-    margin-left: 3.875em;
-    line-height: 1.25em;
+    font-size: 200%;
+    margin-left: 10%;
+    line-height: 125%;
 }
 #a{
-    font-size: 3.75em;
-    margin-left: 1.8em;  
-    margin-top: 1em;
+    font-size: 490%;
+    margin-left: 12.5%;  
+    margin-top: 5%;
     margin-bottom: 0;
     padding-bottom: 0;
-    line-height: 1em;
+    line-height: 100%;
 }
 #b{
-    margin-top: 0.5em;
+    margin-top: 3%;
 }
 #im1 {
     position: absolute;
-    top: 11em;
-    left: 10.5em;
-    width: 19em;
+    top: 18.5%;
+    left: 18.5%;
+    width: 33%;
 }
 #im2 {
     position: absolute;
-    top: 38em;
-    left: 22em;
-    width: 12.5em;
+    top: 63%;
+    left: 37.5%;
+    width: 21.5%;
 }
